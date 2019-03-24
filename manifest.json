@@ -1,0 +1,20 @@
+{
+  "name": "Frontend-Knowledge-Base",
+  "short_name": "Frontend-Knowledge-Base",
+  "icons": [
+    {
+      "src": "./icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icons/android-chrome-150x150.png",
+      "sizes": "150x150",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/Frontend-Knowledge-Base/index.html",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#3eaf7c"
+}
